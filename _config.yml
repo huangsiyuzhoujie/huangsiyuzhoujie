@@ -168,13 +168,13 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host: https://fonts.cat.net
+  host:
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family:Roboto Slab
     size: 16
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
