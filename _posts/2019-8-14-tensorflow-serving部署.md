@@ -16,7 +16,7 @@ Docker是一个虚拟环境容器，可以将你的开发环境、代码、配�
 
 ###### 安装
 
-安装地址https:/[](https://docs.docker.com/install/linux/docker-ce/ubuntu/)/docs.docker.com/install/linux/docker-ce/ubuntu/
+安装地址[https://docs.docker.com/install/linux/docker-ce/ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu)
 
 在docker中想要使用gpu的话，需要安装nvidia-docker。安装地址[https://github.com/NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 
